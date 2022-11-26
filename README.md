@@ -19,21 +19,24 @@ A simple discord bot that fetches cute pictures from reddit, and posts them into
 
 ## Included Commands
 
-- !cute
-- !aww
-- !puppers
-- !derp
-- !confused
-- !bros
-- !snek
-- !elephant
-- !seut
-- !parrot
-- !cat
-- !pig
-- !lit
-- !help
-- !invite
+*This bot uses Discord's Slash Commands, so you can use `/` to see all available commands.*
+
+- /cute - Posts a random cute picture from the included subreddits.
+- /aww - Posts a random cute picture from r/aww.
+- /puppers - Posts a random cute picture from r/rarepuppers.
+- /derp - Posts a random cute picture from r/AnimalsBeingDerps.
+- /confused - Posts a random cute picture from r/AnimalsBeingConfused.
+- /bros - Posts a random cute picture from r/AnimalsBeingBros.
+- /snek - Posts a random cute picture from r/sneks.
+- /elephant - Posts a random cute picture from r/babyelephantgifs.
+- /seut - Posts a random cute picture from r/seut.
+- /parrot - Posts a random cute picture from r/partyparrot.
+- /cat - Posts a random cute picture from r/thecatdimension.
+- /pig - Posts a random cute picture from r/pigtures.
+- /lit - Posts a random cute picture from r/natureisfuckinglit.
+- /help - Shows a list of all available commands.
+- /ping - Pong!
+- /invite - Shows the invite link for this bot.
 
 ## Setup
 

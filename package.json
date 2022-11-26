@@ -1,0 +1,27 @@
+{
+  "name": "discord-cute",
+  "version": "1.0.0",
+  "description": "A simple discord bot that fetches cute pictures from reddit.",
+  "main": "index.js",
+  "repository": "https://github.com/aimeesunflower/discord-cute.git",
+  "author": "Aimee Knight <aimee@newgaea.net>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "snoowrap": "^1.23.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "eslint": "^8.28.0",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1",
+    "tsc": "^2.0.4",
+    "typescript": "^4.9.3"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.ts",
+    "lint": "eslint . --ext .ts"
+  }
+}

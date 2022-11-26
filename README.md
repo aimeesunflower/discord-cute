@@ -9,6 +9,13 @@ A simple discord bot that fetches cute pictures from reddit, and posts them into
 - r/AnimalsBeingDerps
 - r/AnimalsBeingConfused
 - r/rarepuppers
+- r/sneks
+- r/babyelephantgifs
+- r/seut
+- r/partyparrot
+- r/thecatdimension
+- r/pigtures
+- r/natureisfuckinglit
 
 ## Included Commands
 
@@ -18,6 +25,15 @@ A simple discord bot that fetches cute pictures from reddit, and posts them into
 - !derp
 - !confused
 - !bros
+- !snek
+- !elephant
+- !seut
+- !parrot
+- !cat
+- !pig
+- !lit
+- !help
+- !invite
 
 ## Setup
 

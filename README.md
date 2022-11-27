@@ -8,6 +8,7 @@ A simple discord bot that fetches cute pictures from reddit, and posts them into
 - r/AnimalsBeingBros
 - r/AnimalsBeingDerps
 - r/AnimalsBeingConfused
+- r/AnimalsBeingLoveable
 - r/rarepuppers
 - r/sneks
 - r/babyelephantgifs
@@ -16,6 +17,7 @@ A simple discord bot that fetches cute pictures from reddit, and posts them into
 - r/thecatdimension
 - r/pigtures
 - r/natureisfuckinglit
+- r/natureisfuckingcute
 
 ## Included Commands
 
@@ -27,6 +29,7 @@ A simple discord bot that fetches cute pictures from reddit, and posts them into
 - /derp - Posts a random cute picture from r/AnimalsBeingDerps.
 - /confused - Posts a random cute picture from r/AnimalsBeingConfused.
 - /bros - Posts a random cute picture from r/AnimalsBeingBros.
+- /loveable - Posts a random cute picture from r/AnimalsBeingLoveable.
 - /snek - Posts a random cute picture from r/sneks.
 - /elephant - Posts a random cute picture from r/babyelephantgifs.
 - /seut - Posts a random cute picture from r/seut.
@@ -34,6 +37,7 @@ A simple discord bot that fetches cute pictures from reddit, and posts them into
 - /cat - Posts a random cute picture from r/thecatdimension.
 - /pig - Posts a random cute picture from r/pigtures.
 - /lit - Posts a random cute picture from r/natureisfuckinglit.
+- /fcute - Posts a random cute picture from r/natureisfuckingcute.
 - /help - Shows a list of all available commands.
 - /ping - Pong!
 - /invite - Shows the invite link for this bot.
